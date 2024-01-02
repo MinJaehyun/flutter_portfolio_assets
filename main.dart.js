@@ -95946,7 +95946,7 @@ A.Cz.prototype={
 ae(){return new A.a_7(B.i)}}
 A.a_7.prototype={
 R(a){var s=null,r=new A.aay()
-r.a="images/chatting_app.pdf"
+r.a="assets/images/chatting_app.pdf"
 return A.b6(s,new A.HU(r,s),B.j,s,s,s,s,s,s,s,s,s,s)}}
 A.Fe.prototype={
 ae(){return new A.Tn(new A.bb(null,t.Ji),B.i)}}
