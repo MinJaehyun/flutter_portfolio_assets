@@ -95942,7 +95942,7 @@ R(a){var s=null,r=t.p
 return A.cW(A.b([A.en(A.b5(s,A.b5(s,A.fb(A.cW(A.b([A.bQ("                    \uc0ac\uc6a9 \uae30\uc220\n                                 \n    Front-End : Html5, css, javascript, django-bootstrap4, \n    Back-End  : Python, Django web framework, mariadb, Nginx, Gunicorn,  \n    Common    : POSTMAN, FileZilla, Git, Github, Docker, Portainer, AWS EC2, AWS Load Balancer, AWS Route53, AWS Elastic IP, \n            ",s,s,s,s,s,s,s,s)],r),B.C,s,B.e9,B.I),s,s),B.j,s,s,s,s,s,s,s,s,s,s),B.j,s,s,s,s,s,s,s,s,s,s),1)],r),B.C,s,B.Z,B.I)}}
 A.YS.prototype={
 R(a){var s=null,r=t.p
-return A.cW(A.b([A.en(A.b5(s,A.b5(s,A.fb(A.cW(A.b([A.bQ("test \uc911",s,s,s,s,s,s,s,s)],r),B.C,s,B.e9,B.I),s,s),B.j,s,s,s,s,s,s,s,s,s,s),B.j,s,s,s,s,s,s,s,s,s,s),1)],r),B.C,s,B.Z,B.I)}}
+return A.cW(A.b([A.en(A.b5(s,A.b5(s,A.fb(A.cW(A.b([A.bQ("    \uc0ac\uc6a9\ud55c \uae30\uc220\n    \n    [Frontend] Vue, Vuex\n    [Backend] Node.js, express, mongoose, MongoDB\n    [Deploy] Netlify, Heroku, DB: MongoDB Atlas\n    Tensorflow.js - MobileNet\n      ImageNet \ub370\uc774\ud130\ubca0\uc774\uc2a4\uc758 \ub77c\ubca8\ub85c \uc774\ubbf8\uc9c0\ub97c \ubd84\ub958\ud558\uc5ec \ud0dc\uadf8\ub97c \uc790\ub3d9\uc73c\ub85c \ub4f1\ub85d\n            ",s,s,s,s,s,s,s,s)],r),B.C,s,B.e9,B.I),s,s),B.j,s,s,s,s,s,s,s,s,s,s),B.j,s,s,s,s,s,s,s,s,s,s),1)],r),B.C,s,B.Z,B.I)}}
 A.VS.prototype={
 HB(a,b,c){return this.aLl(a,b,c)},
 aLl(a,b,c){var s=0,r=A.M(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g
